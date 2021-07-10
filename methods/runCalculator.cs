@@ -6,7 +6,6 @@ namespace Calculator.runStuff
   public class theCalculator
   {
     theCalculations newCalculations = new theCalculations();
-    string works = "runCalculator works!";
     public void runCalculator()
     {
       Console.WriteLine("welcome to the calculator");        
@@ -16,10 +15,27 @@ namespace Calculator.runStuff
       int num2 = Convert.ToInt32(Console.ReadLine());
       Console.WriteLine("what would you like to do? + - / * ");
       string val = (Console.ReadLine());
-      newCalculations.runAdd();
-      Console.WriteLine(num1);
-      Console.WriteLine(num2);
-      Console.WriteLine(val);
+      if (val == "+")
+      {
+        newCalculations.runAdd(num1, num2);
+      } 
+      else if (val == "-")
+      {
+        newCalculations.runSubtract(num1, num2);
+      } 
+      else if (val == "/")
+      {
+        newCalculations.runDivide(num1, num2);
+      }
+      else if (val == "*")
+      {
+        newCalculations.runMultiply(num1, num2);
+      }
+      else 
+      {
+        Console.WriteLine("please enter a real modifier");
+      }      
+
     }
   }
 }
