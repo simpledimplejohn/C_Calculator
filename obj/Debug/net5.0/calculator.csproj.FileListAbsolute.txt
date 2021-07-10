@@ -1,0 +1,15 @@
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/bin/Debug/net5.0/calculator.deps.json
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/bin/Debug/net5.0/calculator.runtimeconfig.json
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/bin/Debug/net5.0/calculator.runtimeconfig.dev.json
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/bin/Debug/net5.0/calculator.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/bin/Debug/net5.0/ref/calculator.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/bin/Debug/net5.0/calculator.pdb
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/obj/Debug/net5.0/calculator.csproj.AssemblyReference.cache
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/obj/Debug/net5.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/obj/Debug/net5.0/calculator.AssemblyInfoInputs.cache
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/obj/Debug/net5.0/calculator.AssemblyInfo.cs
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/obj/Debug/net5.0/calculator.csproj.CoreCompileInputs.cache
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/obj/Debug/net5.0/calculator.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/obj/Debug/net5.0/ref/calculator.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/obj/Debug/net5.0/calculator.pdb
+/Users/johnblalock/Desktop/epicodus/C/week-7/CalculatorSecond/obj/Debug/net5.0/calculator.genruntimeconfig.cache
